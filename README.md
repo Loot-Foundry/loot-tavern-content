@@ -1,6 +1,6 @@
-# Loot Tavern Vauxs Content
+# Loot Tavern Themed Item Packs
 
-Public issue tracking for feature requests and bug reports related to Loot Tavern content for Foundry VTT.
+Public issue tracking for feature requests and bug reports related to Loot Tavern content for Foundry VTT made by MrVauxs.
 
 Use this repository to submit issues for the following products:
 
