@@ -4,13 +4,13 @@ Public issue tracking for feature requests and bug reports related to Loot Taver
 
 Use this repository to submit issues for the following products:
 
-- Loot Tavern #1 - Sunken King
-- Loot Tavern #2 - Twisted Cults
-- Loot Tavern #3 - Frozen Norse
-- Loot Tavern #5 - Magitech Mayhem
-- Loot Tavern #6 - Welcome to the Jungle
-- Loot Tavern #8 - Body Augmentation
-- Loot Tavern #9 - Victorian Horror
+- Loot Tavern #01 - Sunken King
+- Loot Tavern #02 - Twisted Cults
+- Loot Tavern #03 - Frozen Norse
+- Loot Tavern #05 - Magitech Mayhem
+- Loot Tavern #06 - Welcome to the Jungle
+- Loot Tavern #08 - Body Augmentation
+- Loot Tavern #09 - Victorian Horror
 - Loot Tavern #10 - Antimagic Corruption
 - Loot Tavern #11 - High Seas Horror
 - Loot Tavern #12 - Ocean Kingdoms
