@@ -4,6 +4,11 @@ Public issue tracking for feature requests and bug reports related to Loot Taver
 
 Use this repository to submit issues for the following products:
 
+## Loot Tavern Adventures
+- Bloodfrost of the Fey
+- Garden of Dark Delights
+
+## Loot Tavern Item Packs
 - Loot Tavern #01 - Sunken King
 - Loot Tavern #02 - Twisted Cults
 - Loot Tavern #03 - Frozen Norse
