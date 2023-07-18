@@ -22,6 +22,8 @@ body:
       label: What package are you reporting this for?
       multiple: false
       options:
+      - "Bloodfrost of the Fey"
+      - "Garden of Dark Delights"
       - "Loot Tavern #1 - Sunken King"
       - "Loot Tavern #2 - Twisted Cults"
       - "Loot Tavern #3 - Frozen Norse"
@@ -69,6 +71,7 @@ body:
       - "Loot Tavern #47 - Patrons of Legend"
       - "Loot Tavern #48 - Thieves' Spoils"
       - "Loot Tavern #49 - Seasonal Armoury"
+      - "Other?"
     validations:
       required: true
   - type: input
