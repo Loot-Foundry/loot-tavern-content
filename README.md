@@ -7,6 +7,8 @@ Use this repository to submit issues for the following products:
 ## Loot Tavern Adventures
 - Bloodfrost of the Fey
 - Garden of Dark Delights
+- Ascent of the Sour Serpent
+- Queen of Shadow and Thorn
 
 ## Loot Tavern Item Packs
 - Loot Tavern #01 - Sunken King
