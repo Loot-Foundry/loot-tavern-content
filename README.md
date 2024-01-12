@@ -71,6 +71,6 @@ Use this repository to submit issues for the following products:
 - Loot Tavern #50 - Unfathomable Terrors
 - Loot Tavern #51 - Dawn of the Yokai
 - Loot Tavern #52 - Cakewalk [Returns]
-- Loot Tavern #53 - Wrath of the Kaiju
+- Loot Tavern #53 - Rise of the Kaiju
 - Loot Tavern #54 - Prostheses and Enhancements
 - Loot Tavern #55 - Iconic Duos
