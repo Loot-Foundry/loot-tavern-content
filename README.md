@@ -1,6 +1,6 @@
 # Loot Tavern Themed Item Packs
 
-Public issue tracking for feature requests and bug reports related to Loot Tavern content for Foundry VTT made by MrVauxs.
+A public issue board for Loot Tavern Foundry VTT content.
 
 Issues regarding the [Loot Tavern - Tamer](https://github.com/Loot-Foundry/loot-tavern-tamer) go into its appropriate repository.
 
