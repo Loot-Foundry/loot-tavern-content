@@ -2,13 +2,24 @@
 
 Public issue tracking for feature requests and bug reports related to Loot Tavern content for Foundry VTT made by MrVauxs.
 
+Issues regarding the [Loot Tavern - Tamer](https://github.com/Loot-Foundry/loot-tavern-tamer) go into its appropriate repository.
+
 Use this repository to submit issues for the following products:
+
+## Collections and Miscellany
+- L'arsene Ledger of Treasures and Trinkets
+- Motes of the Divine
 
 ## Loot Tavern Adventures
 - Bloodfrost of the Fey
 - Garden of Dark Delights
 - Ascent of the Sour Serpent
 - Queen of Shadow and Thorn
+- Forge of the Divine Machine
+- The Twilight Hunter
+- Flames of the Faithful
+- Bones n' Roses
+- Throne of the Devourer
 
 ## Loot Tavern Item Packs
 - Loot Tavern #01 - Sunken King
@@ -58,3 +69,9 @@ Use this repository to submit issues for the following products:
 - Loot Tavern #47 - Patrons of Legend
 - Loot Tavern #48 - Thieves' Spoils
 - Loot Tavern #49 - Seasonal Armoury
+- Loot Tavern #50 - Unfathomable Terrors
+- Loot Tavern #51 - Dawn of the Yokai
+- Loot Tavern #52 - Cakewalk [Returns]
+- Loot Tavern #53 - Wrath of the Kaiju
+- Loot Tavern #54 - Prostheses and Enhancements
+- Loot Tavern #55 - Iconic Duos
