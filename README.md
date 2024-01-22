@@ -8,6 +8,7 @@ Use this repository to submit issues for the following products:
 
 ## Collections and Miscellany
 - L'arsene Ledger of Treasures and Trinkets
+- Motes of the Divine
 
 ## Loot Tavern Adventures
 - Bloodfrost of the Fey
