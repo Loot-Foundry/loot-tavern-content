@@ -1,7 +1,5 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug"]
+name: Bug/Typo
+description: Report a bug or a typo within one of our modules.
 body:
   - type: markdown
     attributes:
@@ -13,7 +11,7 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: ""
     validations:
       required: true
   - type: dropdown
