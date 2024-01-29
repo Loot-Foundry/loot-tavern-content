@@ -6,7 +6,7 @@ body:
       value: |
         Use this form to report an issue with a Loot Tavern module
   - type: dropdown
-    id: package
+    id: report-type
     attributes:
       label: What kind of problem are you facing?
       options:
