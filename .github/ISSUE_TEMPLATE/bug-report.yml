@@ -95,6 +95,7 @@ body:
       - "LT53 - Rise of the Kaiju"
       - "LT54 - Prostheses and Enhancements"
       - "LT55 - Iconic Duos"
+      - "LT56 - Four Factions"
       - "Other?"
     validations:
       required: true
