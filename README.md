@@ -20,6 +20,7 @@ Use this repository to submit issues for the following products:
 - Flames of the Faithful
 - Bones n' Roses
 - Throne of the Devourer
+- Reign of Iron (PF2e)
 
 ## Loot Tavern Item Packs
 - Loot Tavern #01 - Sunken King
