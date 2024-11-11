@@ -31,6 +31,7 @@ body:
       description: Please tick both the adventure and the book a bug is in, ex. Motes of the Divine and Bones n Roses.
       multiple: true
       options:
+      - "Rise of the Rime Reaper"
       - "L'arsene Ledger of Treasures and Trinkets"
       - "Motes of the Divine"
       - "Bloodfrost of the Fey"
